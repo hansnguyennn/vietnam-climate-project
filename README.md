@@ -1,6 +1,6 @@
 # Vietnam Climate & Disaster Patterns
 
-**PHY-231 Introduction to Data Science — Final Project**
+**PHY-231 Think Like a Data Scientist — Final Project**
 **Student:** An Nguyen
 
 ## Live Site
@@ -29,7 +29,7 @@ This project investigates how monsoon rainfall, river behavior, and natural disa
 
 - Python, pandas, matplotlib, sqlite3
 - Jupyter Notebook
-- HTML / CSS / Chart.js (website)
+- HTML (website)
 
 ## Key Findings
 
